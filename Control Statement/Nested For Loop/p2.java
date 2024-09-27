@@ -1,17 +1,9 @@
-class pamu{
-	public static void main(String[]args){
-		for(int a=1;a<=4;a++){
-			for(int b=1;b<=a;b++){
-				System.out.print("*");
-			}
-				System.out.println();
-		}
+class demo {
+      public static void main (Stirng[]args){
+	for(int i=1; i<=3; i++){
+	for(int j=1; j<=3; j++){
+	System.out.print("*_");
 	}
+	System.out.println();
 }
-
-O/P:-
-
-*
-**
-***
-****
+}
